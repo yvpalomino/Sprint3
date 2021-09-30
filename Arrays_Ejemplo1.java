@@ -18,7 +18,7 @@ public class Arrays_Ejemplo1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int num[]={8, 10, 15, 20, 21, 25, 30, 32, 40, 41};
+        int num[]={20 , 30, 40};
          
         //Busca un valor que le pasamos por parámetro, devuelve su posición. 
         System.out.println("Metodo binarySearch: "+Arrays.binarySearch(num, 21)); //Devuelve un 4 (posc)
